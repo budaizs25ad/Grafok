@@ -15,6 +15,7 @@ h1 {
   text-transform: uppercase;
 }
 
+
 h2,
 h3 {
   font-style: italic;
@@ -45,4 +46,8 @@ h3 {
 
 a {
   color: red;
+  font-weight: bold;
+  text-decoration: none;
+  
 }
+
